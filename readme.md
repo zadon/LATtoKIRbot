@@ -14,4 +14,9 @@ transliterate - перевод монгольского транслита на 
 googletrans - перевод с монгольского языка на руский.
 ```
 
+Пример:
+
+![photo_2022-10-21_13-04-32](https://user-images.githubusercontent.com/69627510/197116718-77c494c7-e437-486f-a503-677435c06d2c.jpg)
+
+
 https://t.me/LATtoKIRbot
