@@ -2,7 +2,7 @@ import telebot
 from transliterate import translit
 from googletrans import Translator
 
-bot = telebot.TeleBot('your token here')
+bot = telebot.TeleBot('BOT_TOKEN')
 
 translator = Translator()
 
